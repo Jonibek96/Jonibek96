@@ -1,5 +1,24 @@
-<h1 align="center">Hi 👋, I'm Jonibek</h1>
-<h3 align="center">I'm a professional Flutter developer mobile and web apps using Flutter with sleek UI designs and performance. #### Talking about my personal stuff: - 👉 Flutter Developer Velox Software - 💻 The tech I'm interested Flutter/ML/AR etc. - ✨ I'm learning Flutter, Web scrapping, Automations etc. - 🎯 1+ years of experience in Flutter. - 🎯 I can get you mobile and responsive web app using Flutter. - 🎯 I use BloC Architecture & State management to keep up the performance of apps - 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future. - 🎯 My focus is always on performance, quality, and little details in the User Interface. Experienced In: ▶ BloC State Management ▶ Firebase (Auth/database) ▶ REST APIs ▶ Google Maps Integration ▶ ▶ UI Design and much more</h3>
+### Hey there, I'm  Jonibek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### I'm a professional Flutter developer mobile and web apps using Flutter with sleek UI designs and performance.
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+#### Talking about my personal stuff:
+- 👉 Flutter Developer Velox Software
+- 💻 The tech I'm interested Flutter/ML/AR etc.
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎯 1+ years of experience in Flutter.
+- 🎯 I can get you mobile and responsive web app using Flutter.
+- 🎯 I use BloC Architecture & State management to keep up the performance of apps
+- 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future.
+- 🎯 My focus is always on performance, quality, and little details in the User Interface.
+
+- Experienced In:
+-   ▶ BloC State Management
+-   ▶ Firebase (Auth/database)
+-   ▶ REST APIs
+-   ▶ Google Maps Integration
+-   ▶ UI Design and much more
+<br>
 
 - 📫 How to reach me **jonibek0396@gmail.com**
 
