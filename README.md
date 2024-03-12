@@ -4,21 +4,21 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 #### Talking about my personal stuff:
-- 👉 Flutter Developer Velox Software
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎯 1+ years of experience in Flutter.
-- 🎯 I can get you mobile and responsive web app using Flutter.
-- 🎯 I use BloC Architecture & State management to keep up the performance of apps
-- 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future.
-- 🎯 My focus is always on performance, quality, and little details in the User Interface.
-- 🎯 I have been working as a freelancer (Kwork) for more than a year.
-- 🎯 My applications are on Google Play and App Store.
-- Experienced In:
--   ▶ BloC State Management
--   ▶ Firebase (Auth/database)
--   ▶ REST APIs
--   ▶ Google Maps Integration
--   ▶ UI Design and much more
+- 👉 Flutter Developer Velox Software<br>
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.<br>
+- 🎯 1+ years of experience in Flutter.<br>
+- 🎯 I can get you mobile and responsive web app using Flutter.<br>
+- 🎯 I use BloC Architecture & State management to keep up the performance of apps<br>
+- 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future.<br>
+- 🎯 My focus is always on performance, quality, and little details in the User Interface.<br>
+- 🎯 I have been working as a freelancer (Kwork) for more than a year.<br>
+- 🎯 My applications are on Google Play and App Store.<br>
+- Experienced In:<br>
+-   ▶ BloC State Management<br>
+-   ▶ Firebase (Auth/database)<br>
+-   ▶ REST APIs<br>
+-   ▶ Google Maps Integration<br>
+-   ▶ UI Design and much more<br>
 <br>
 
 - 📫 How to reach me **jonibek0396@gmail.com**
