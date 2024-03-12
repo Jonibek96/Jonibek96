@@ -1,5 +1,6 @@
 ### Hey there, I'm  Jonibek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 ### I'm a professional Flutter developer mobile and web apps using Flutter with sleek UI designs and performance.
+### I've been working as a Junior Go Developer for a year now. 
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 #### Talking about my personal stuff:
@@ -11,7 +12,8 @@
 - 🎯 I use BloC Architecture & State management to keep up the performance of apps
 - 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future.
 - 🎯 My focus is always on performance, quality, and little details in the User Interface.
-
+- 🎯 I have been working as a freelancer (Kwork) for more than a year.
+- 🎯 My applications are on Google Play and App Store.
 - Experienced In:
 -   ▶ BloC State Management
 -   ▶ Firebase (Auth/database)
