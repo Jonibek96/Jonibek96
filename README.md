@@ -1,6 +1,5 @@
 ### Hey there, I'm  Jonibek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 ### I'm a professional Flutter developer mobile and web apps using Flutter with sleek UI designs and performance.
-### I've been working as a Junior Go Developer for a year now. 
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 #### Talking about my personal stuff:
